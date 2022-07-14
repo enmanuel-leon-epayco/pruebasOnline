@@ -1,0 +1,22 @@
+{
+    "facturas":[
+       {
+          "paymentRef": "6001251002",
+          "totalBalance":"1500",
+          "invoiceType": "movil",
+          "isRefNumber": true,
+          "mongoId": "2d085fd7e1496276e49eefd",
+          "invoice":"20210811000001281072",
+          "technologyType":"GTA",
+          "isCorp": false,
+          "sumaServiceAmount": "895488",
+          "sumaDeviceInstAmtQIInfo": "0",
+          "sumaAditionalContents": "0",
+          "canal": "web",
+          "novum": false,
+          "number": 2003466772,
+          "isInListWite": false,
+          "accountNumber": "6001251002"
+       }
+    ]
+ }
