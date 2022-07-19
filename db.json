@@ -1,22 +1,78 @@
 {
-    "facturas":[
-       {
-          "paymentRef": "6001251002",
-          "totalBalance":"1500",
-          "invoiceType": "movil",
-          "isRefNumber": true,
-          "mongoId": "2d085fd7e1496276e49eefd",
-          "invoice":"20210811000001281072",
-          "technologyType":"GTA",
-          "isCorp": false,
-          "sumaServiceAmount": "895488",
-          "sumaDeviceInstAmtQIInfo": "0",
-          "sumaAditionalContents": "0",
-          "canal": "web",
-          "novum": false,
-          "number": 2003466772,
-          "isInListWite": false,
-          "accountNumber": "6001251002"
-       }
+  "facturas": [
+    {
+      "paymentRef": "6001251002",
+      "totalBalance": "1500",
+      "invoiceType": "movil",
+      "isRefNumber": true,
+      "mongoId": "2d085fd7e1496276e49eefd",
+      "invoice": "20210811000001281072",
+      "technologyType": "GTA",
+      "isCorp": false,
+      "sumaServiceAmount": "895488",
+      "sumaDeviceInstAmtQIInfo": "0",
+      "sumaAditionalContents": "0",
+      "canal": "web",
+      "novum": false,
+      "number": 2003466772,
+      "isInListWite": false,
+      "accountNumber": "6001251002"
+    }
+  ],
+  "facturas2": {
+    "success": true,
+    "title_response": "Consulta exitosa",
+    "text_response": "Consulta exitosa",
+    "last_action": "Consulta exitosa",
+    "data": [
+      {
+        "billID": "212815294",
+        "folioID": "1016325",
+        "billingCycleID": "7064",
+        "billingCycleName": "7064",
+        "issueDate": "2022-03-25",
+        "cycleBeginDate": "2022-02-25",
+        "cycleEndDate": "2022-03-25",
+        "openAmount": "2200000000",
+        "invoiceAmount": "2200000000",
+        "dueDate": "2022-03-30",
+        "pdfLink": null,
+        "documentType": "CYCLE-INV",
+        "accountCode": "531384810001",
+        "serviceNumber": "3026111867"
+      },
+      {
+        "billID": "211775197",
+        "folioID": "1010757",
+        "billingCycleID": "7062",
+        "billingCycleName": "7062",
+        "issueDate": "2022-01-25",
+        "cycleBeginDate": "2021-12-25",
+        "cycleEndDate": "2022-01-25",
+        "openAmount": "1874999988",
+        "invoiceAmount": "1874999988",
+        "dueDate": "2022-04-02",
+        "pdfLink": null,
+        "documentType": "CYCLE-INV",
+        "accountCode": "531384810001",
+        "serviceNumber": "3026111867"
+      },
+      {
+        "billID": "29286001",
+        "folioID": "2404",
+        "billingCycleID": "6069",
+        "billingCycleName": "6069",
+        "issueDate": "2021-08-25",
+        "cycleBeginDate": "2021-07-25",
+        "cycleEndDate": "2021-08-25",
+        "openAmount": "58499999748",
+        "invoiceAmount": "58499999748",
+        "dueDate": "2021-12-25",
+        "pdfLink": null,
+        "documentType": "CYCLE-INV",
+        "accountCode": "531384810001",
+        "serviceNumber": "3026111867"
+      }
     ]
- }
+  }
+}
