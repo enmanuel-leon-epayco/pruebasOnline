@@ -40,38 +40,6 @@
         "documentType": "CYCLE-INV",
         "accountCode": "531384810001",
         "serviceNumber": "3026111867"
-      },
-      {
-        "billID": "211775197",
-        "folioID": "1010757",
-        "billingCycleID": "7062",
-        "billingCycleName": "7062",
-        "issueDate": "2022-01-25",
-        "cycleBeginDate": "2021-12-25",
-        "cycleEndDate": "2022-01-25",
-        "openAmount": "187499",
-        "invoiceAmount": "187499",
-        "dueDate": "2022-04-02",
-        "pdfLink": null,
-        "documentType": "CYCLE-INV",
-        "accountCode": "531384810001",
-        "serviceNumber": "3026111867"
-      },
-      {
-        "billID": "29286001",
-        "folioID": "2404",
-        "billingCycleID": "6069",
-        "billingCycleName": "6069",
-        "issueDate": "2021-08-25",
-        "cycleBeginDate": "2021-07-25",
-        "cycleEndDate": "2021-08-25",
-        "openAmount": "5849999",
-        "invoiceAmount": "5849999",
-        "dueDate": "2021-12-25",
-        "pdfLink": null,
-        "documentType": "CYCLE-INV",
-        "accountCode": "531384810001",
-        "serviceNumber": "3026111867"
       }
     ]
   }
